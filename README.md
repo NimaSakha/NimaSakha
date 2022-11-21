@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NimaSakha
 - 👀 I’m interested in Front End Web Dev
 - 🌱 I’m currently learning Front End Web Dev
-- 💞️ I’m looking to collaborate on Web Dev Projects
+- 💞️ I’m looking to work on Web Dev Projects
 - 📫 How to reach me Email: nimasakha25@gmal.com
 
 <!---
