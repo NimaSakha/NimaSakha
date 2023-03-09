@@ -5,14 +5,13 @@ Heres some code about me:
 
 ```js
 Nima: {
-  Using: {'React', 'Js', 'Css', 'Sass', 'Html'},
-  Learing: {'MongoDB', 'ExpressJs', 'NodeJs'},
-  WantToLearn: {'Angular', 'VueJs', 'Microsoft Word'}
+  Using: {'React', 'Js', 'Css', 'Sass', 'Html', 'Node.Js', 'express'},
+  Learing: {'Material UI', 'Type Script', 'Daisy UI'},
+  WantToLearn: {'Angular', 'VueJs'}
 }
 ```
 
-I've been coding for almost 2 years now foucsing on Front-end development.
-Now as I am getting more comfortable I am Learing Full Stack development.
+I've been coding for almost 2 years now ive build many project for clients, Groups, and Me!
 
 
 
