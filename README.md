@@ -11,7 +11,15 @@ Nima: {
 }
 ```
 
-I've been coding for almost 2 years now ive build many project for clients, Groups, and Me!
+Email: nimasakha25@gmail.com
+LinkedIn: https://www.linkedin.com/in/nima-sakha-b9b841267/
 
+Hello, I'm Nima Sakha, a passionate Full Stack MERN developer with almost 2 years of experience. I am currently looking for an internship to further enhance my skills and knowledge.
+
+As a Full Stack MERN developer, I specialize in MongoDB, Express, React, and Node.js. I have a great passion for coding and I love to solve challenging problems in unique ways. I take pride in writing clean, efficient, and maintainable code that is easy to understand and debug.
+
+Currently, I am the head developer for a front-end and back-end project while still pursuing my education in high school. Despite my young age, I am committed to pursuing my passion for programming and I am always looking for opportunities to learn and grow.
+
+If you're a recruiter looking for a dedicated and driven Full Stack MERN developer, look no further than Nima Sakha. Let's work together to build amazing projects and solve interesting problems. Feel free to reach out to me for any opportunities or collaborations.
 
 
