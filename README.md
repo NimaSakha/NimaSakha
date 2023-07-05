@@ -15,7 +15,7 @@ Heres some code about me:
 
 ```js
 Nima: {
-  Using: {'React', 'Js', 'Css', 'Sass', 'Html', 'Node.Js', 'express', 'Type Script', 'Next.js', 'react native' },
+  Using: {'React', 'Js', 'Css', 'Sass', 'Html', 'Node.Js', 'express', 'Type Script', 'Next.js', 'react native', 'tailwind css' },
   Learing: {'Material UI', 'Daisy UI'},
   WantToLearn: {'Angular', 'VueJs'}
 }
